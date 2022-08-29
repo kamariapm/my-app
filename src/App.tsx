@@ -36,8 +36,7 @@ const App: FC = () => {
 
   return (
     <div className="App">
-      <h1>Goal Getter</h1>
-      <h3>List 6 items that need to be completed and aim to complete 4</h3>
+      <h1>Task Tracker</h1>
       <div className="header">
         <div className="inputContainer">
           <input
